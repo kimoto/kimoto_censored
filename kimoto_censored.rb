@@ -138,5 +138,6 @@ if $0 == __FILE__
   p "死ぬ".is_positive
   p "kimotoが、googleのサーバーを破壊した".kimoto_censored
   p "kimotoが、googleのサーバーを破壊した".is_negative
+  p "kimotoが、googleのサーバーを破壊した".is_positive
 end
 
